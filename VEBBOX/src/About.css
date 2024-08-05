@@ -1,0 +1,81 @@
+.li1,
+.li2 {
+  height: 2px;
+  width: 60px;
+  background-color: #3498db;
+  margin-top: 20px;
+  margin-right: 20px;
+
+  margin-left: 20px;
+}
+.abt0{
+    margin-top: 100px;
+}
+.ser1{
+    font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 42px;
+  color: #222222;
+}
+.tag2{
+    display: flex;
+    /* border: 2px solid red; */
+    height: 250px;
+    margin-top: 50px;
+    width: 1500px;
+    gap: 30px;
+    margin-left: 350px;
+}
+.pt1{
+    height: 250px;
+    width: 750px;
+    /* border: 2px solid gray; */
+    font-size: 22px;
+    font-family: "Raleway", sans-serif;
+    color: gray;
+
+}
+.ig1{
+    height:300px;
+    width: 500px;
+}
+.igt0{
+    display: flex;
+}
+.gt1{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.gt2{
+    height: 400px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 100px;
+    margin-left: 80px;
+    /* border: 2px solid red; */
+}
+.gt21{
+    height: 200px;
+    /* border: 2px solid rebeccapurple; */
+}
+.smi{
+    color: #3498db;
+    font-size: 50px;
+    margin-top: 25px;
+     
+}
+ 
+.gt2child{
+    display: flex;
+}
+.gt0{
+    font-weight: bolder;
+    font-size: 40px;
+    /* padding-bottom: 20px; */
+    margin-left: 10px;
+    position: relative;
+}
+.pt{
+    font-size: 19px;
+}

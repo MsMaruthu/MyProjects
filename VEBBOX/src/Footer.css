@@ -1,0 +1,35 @@
+.ftt{
+    height: 100px;
+    width: 100vw;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+    background-color: aliceblue;
+}
+.ft0,.ft1{
+    display: flex;
+    margin-left: 400px;
+ }
+ 
+ .p5{
+    text-decoration-line: none;
+    margin-top: 18px;
+    margin-left: 6px;
+    color: #3498DB;
+ }
+.p1{
+    font-size: 20px;
+}
+.p2{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 10px;    
+}
+
+.p4{
+    font-size: 18px;
+}
+.p3{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 10px;
+}

@@ -1,0 +1,54 @@
+.nav1{
+    height: 70px;
+    width: 100%;
+    /* border: 2px solid red; */
+    position: sticky ;
+    top:0px;
+    background-color: aliceblue;
+    z-index: 4;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.img1{
+    height: 45px;
+    padding-top: 10px;
+    /* margin-left: 450px; */
+}
+.nav2{
+    display: flex;
+    gap: 35px;
+    /* margin-top: 20px; */
+}
+.gtbtn{
+    height: 50px;
+    width: 150px;
+    margin-right: 200px;
+    font-family: "open sans",sans-serif;
+    /* padding-bottom: 25px; */
+    margin: 0px 0px 0px 30px;
+    background-color: #3498DB;
+    border-radius: 30px;
+    font-size: 18px;
+    color: aliceblue;
+    border: none;
+}
+.home,.services,.products,.about{
+    margin-top: 20px;
+    color: gray;
+    text-decoration: none;
+    font-family: "open sans",sans-serif;
+
+}
+.home:hover{
+    color: #3498DB;
+}
+.services:hover{
+    color: #3498DB;
+}
+.products:hover{
+    color: #3498DB;
+}
+.about:hover{
+    color: #3498DB;
+}

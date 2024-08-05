@@ -1,0 +1,130 @@
+.tag0 {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 42px;
+  color: #222222;
+}
+.Ser0,.ser1 {
+  display: flex;
+  justify-content: center;
+}
+.li1,
+.li2 {
+  height: 2px;
+  width: 60px;
+  background-color: #3498db;
+  margin-top: 20px;
+  margin-right: 20px;
+
+  margin-left: 20px;
+}
+.tag1 {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.our {
+  font-family: "Raleway", sans-serif;
+  color: gray;
+  font-size: 22px;
+}
+.contn1,
+.contn2,
+.contn3,
+.contn4,.contn5,.contn6,.contn7,.contn8 {
+  /* border: 2px solid red; */
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset,
+    rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  border-radius: 30px;
+  margin-top: 50px;
+  height: 550px;
+  width: 310px;
+  display: flex;
+  text-overflow: none;
+  text-align: justify;
+}
+.contn1:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}
+.contn2:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}
+.contn3:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}
+.contn4:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}
+.contn5:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}.contn6:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}.contn7:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}.contn8:hover {
+  background-color: #3498db;
+  transition: 0.5s;
+  color: azure;
+}
+.tx2:hover {
+  /* background-color: #3498db; */
+  transition-duration: 0.2s;
+  color: azure;
+}
+ 
+.contn0,.cont1 {
+  display: flex;
+  /* justify-content: space-around; */
+  gap: 35px;
+  justify-content: center;
+}
+.imgbx {
+  height: 80px;
+  width: 80px;
+  margin-top: 40px;
+  margin-left: 40px;
+  border-radius: 50%;
+  background-color: #3498db;
+  justify-content: center;
+  align-items: baseline;
+  image-resolution: 100%;
+}
+.glb {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.tx1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  width: 400px;
+  margin-top: 30px;
+}
+.tx2 {
+  font-family: " open-sans", sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  
+  color: grey;
+  text-align: start;
+  /* text-align: justify; */
+  width: 250px;
+  height: 350px;
+  overflow-y: auto;
+  margin-top: 20px;
+}
